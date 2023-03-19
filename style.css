@@ -197,12 +197,13 @@ header{
 }
 
 .imgsection{
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
 .sectionimage{
-    width: 188px;
+    width: 100%;
 }
 
 footer{
